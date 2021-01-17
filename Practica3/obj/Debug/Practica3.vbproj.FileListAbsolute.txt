@@ -1,0 +1,96 @@
+C:\Users\pablo\source\repos\Practica3\Practica3\bin\Debug\Practica3.exe.config
+C:\Users\pablo\source\repos\Practica3\Practica3\bin\Debug\Practica3.exe
+C:\Users\pablo\source\repos\Practica3\Practica3\bin\Debug\Practica3.pdb
+C:\Users\pablo\source\repos\Practica3\Practica3\bin\Debug\Practica3.xml
+C:\Users\pablo\source\repos\Practica3\Practica3\obj\Debug\Practica3.vbprojAssemblyReference.cache
+C:\Users\pablo\source\repos\Practica3\Practica3\obj\Debug\Practica3.Form1.resources
+C:\Users\pablo\source\repos\Practica3\Practica3\obj\Debug\Practica3.Resources.resources
+C:\Users\pablo\source\repos\Practica3\Practica3\obj\Debug\Practica3.vbproj.GenerateResource.cache
+C:\Users\pablo\source\repos\Practica3\Practica3\obj\Debug\Practica3.vbproj.CoreCompileInputs.cache
+C:\Users\pablo\source\repos\Practica3\Practica3\obj\Debug\Practica3.exe
+C:\Users\pablo\source\repos\Practica3\Practica3\obj\Debug\Practica3.xml
+C:\Users\pablo\source\repos\Practica3\Practica3\obj\Debug\Practica3.pdb
+C:\Users\pablo\source\repos\Practica3\Practica3\obj\Debug\Practica3.AddClients.resources
+C:\Users\pablo\source\repos\Practica3\Practica3\obj\Debug\Practica3.AddTipoPatinete.resources
+C:\Users\pablo\source\repos\Practica3\Practica3\obj\Debug\Practica3.AddPatinete.resources
+C:\Users\pablo\source\repos\Practica3\Practica3\obj\Debug\Practica3.ModTipoPatinete.resources
+C:\Users\pablo\source\repos\Practica3\Practica3\obj\Debug\Practica3.DeleteTipoPatiente.resources
+C:\Users\pablo\source\repos\Practica3\Practica3\obj\Debug\Practica3.DeleteClient.resources
+C:\Users\pablo\source\repos\Practica3\Practica3\obj\Debug\Practica3.ModClients.resources
+C:\Users\pablo\source\repos\Practica3\Practica3\obj\Debug\Practica3.DeletePatinete.resources
+C:\Users\pablo\source\repos\Practica3\Practica3\obj\Debug\Practica3.modPatinete.resources
+C:\Users\pablo\source\repos\Practica3\Practica3\obj\Debug\Practica3.AddReservas.resources
+C:\Users\pablo\source\repos\Practica3\Practica3\obj\Debug\Practica3.DeleteReservas.resources
+C:\Users\pablo\source\repos\Practica3\Practica3\obj\Debug\Practica3.ModReservas.resources
+D:\Drive Universidad\OneDrive - Universidad de Castilla-La Mancha\Universidad\2º de Carrera\2º Cuatrimestre\Bases de Datos\Practicas\Practica3\Practica3\bin\Debug\Practica3.exe.config
+D:\Drive Universidad\OneDrive - Universidad de Castilla-La Mancha\Universidad\2º de Carrera\2º Cuatrimestre\Bases de Datos\Practicas\Practica3\Practica3\bin\Debug\Practica3.exe
+D:\Drive Universidad\OneDrive - Universidad de Castilla-La Mancha\Universidad\2º de Carrera\2º Cuatrimestre\Bases de Datos\Practicas\Practica3\Practica3\bin\Debug\Practica3.pdb
+D:\Drive Universidad\OneDrive - Universidad de Castilla-La Mancha\Universidad\2º de Carrera\2º Cuatrimestre\Bases de Datos\Practicas\Practica3\Practica3\bin\Debug\Practica3.xml
+D:\Drive Universidad\OneDrive - Universidad de Castilla-La Mancha\Universidad\2º de Carrera\2º Cuatrimestre\Bases de Datos\Practicas\Practica3\Practica3\obj\Debug\Practica3.vbprojAssemblyReference.cache
+D:\Drive Universidad\OneDrive - Universidad de Castilla-La Mancha\Universidad\2º de Carrera\2º Cuatrimestre\Bases de Datos\Practicas\Practica3\Practica3\obj\Debug\Practica3.AddClients.resources
+D:\Drive Universidad\OneDrive - Universidad de Castilla-La Mancha\Universidad\2º de Carrera\2º Cuatrimestre\Bases de Datos\Practicas\Practica3\Practica3\obj\Debug\Practica3.DeleteClient.resources
+D:\Drive Universidad\OneDrive - Universidad de Castilla-La Mancha\Universidad\2º de Carrera\2º Cuatrimestre\Bases de Datos\Practicas\Practica3\Practica3\obj\Debug\Practica3.ModClients.resources
+D:\Drive Universidad\OneDrive - Universidad de Castilla-La Mancha\Universidad\2º de Carrera\2º Cuatrimestre\Bases de Datos\Practicas\Practica3\Practica3\obj\Debug\Practica3.AddPatinete.resources
+D:\Drive Universidad\OneDrive - Universidad de Castilla-La Mancha\Universidad\2º de Carrera\2º Cuatrimestre\Bases de Datos\Practicas\Practica3\Practica3\obj\Debug\Practica3.DeletePatinete.resources
+D:\Drive Universidad\OneDrive - Universidad de Castilla-La Mancha\Universidad\2º de Carrera\2º Cuatrimestre\Bases de Datos\Practicas\Practica3\Practica3\obj\Debug\Practica3.modPatinete.resources
+D:\Drive Universidad\OneDrive - Universidad de Castilla-La Mancha\Universidad\2º de Carrera\2º Cuatrimestre\Bases de Datos\Practicas\Practica3\Practica3\obj\Debug\Practica3.AddReservas.resources
+D:\Drive Universidad\OneDrive - Universidad de Castilla-La Mancha\Universidad\2º de Carrera\2º Cuatrimestre\Bases de Datos\Practicas\Practica3\Practica3\obj\Debug\Practica3.DeleteReservas.resources
+D:\Drive Universidad\OneDrive - Universidad de Castilla-La Mancha\Universidad\2º de Carrera\2º Cuatrimestre\Bases de Datos\Practicas\Practica3\Practica3\obj\Debug\Practica3.ModReservas.resources
+D:\Drive Universidad\OneDrive - Universidad de Castilla-La Mancha\Universidad\2º de Carrera\2º Cuatrimestre\Bases de Datos\Practicas\Practica3\Practica3\obj\Debug\Practica3.AddTipoPatinete.resources
+D:\Drive Universidad\OneDrive - Universidad de Castilla-La Mancha\Universidad\2º de Carrera\2º Cuatrimestre\Bases de Datos\Practicas\Practica3\Practica3\obj\Debug\Practica3.Form1.resources
+D:\Drive Universidad\OneDrive - Universidad de Castilla-La Mancha\Universidad\2º de Carrera\2º Cuatrimestre\Bases de Datos\Practicas\Practica3\Practica3\obj\Debug\Practica3.Resources.resources
+D:\Drive Universidad\OneDrive - Universidad de Castilla-La Mancha\Universidad\2º de Carrera\2º Cuatrimestre\Bases de Datos\Practicas\Practica3\Practica3\obj\Debug\Practica3.DeleteTipoPatiente.resources
+D:\Drive Universidad\OneDrive - Universidad de Castilla-La Mancha\Universidad\2º de Carrera\2º Cuatrimestre\Bases de Datos\Practicas\Practica3\Practica3\obj\Debug\Practica3.ModTipoPatinete.resources
+D:\Drive Universidad\OneDrive - Universidad de Castilla-La Mancha\Universidad\2º de Carrera\2º Cuatrimestre\Bases de Datos\Practicas\Practica3\Practica3\obj\Debug\Practica3.vbproj.GenerateResource.cache
+D:\Drive Universidad\OneDrive - Universidad de Castilla-La Mancha\Universidad\2º de Carrera\2º Cuatrimestre\Bases de Datos\Practicas\Practica3\Practica3\obj\Debug\Practica3.vbproj.CoreCompileInputs.cache
+D:\Drive Universidad\OneDrive - Universidad de Castilla-La Mancha\Universidad\2º de Carrera\2º Cuatrimestre\Bases de Datos\Practicas\Practica3\Practica3\obj\Debug\Practica3.exe
+D:\Drive Universidad\OneDrive - Universidad de Castilla-La Mancha\Universidad\2º de Carrera\2º Cuatrimestre\Bases de Datos\Practicas\Practica3\Practica3\obj\Debug\Practica3.xml
+D:\Drive Universidad\OneDrive - Universidad de Castilla-La Mancha\Universidad\2º de Carrera\2º Cuatrimestre\Bases de Datos\Practicas\Practica3\Practica3\obj\Debug\Practica3.pdb
+C:\Users\pablo\Desktop\Practica3\Practica3\bin\Debug\Practica3.exe.config
+C:\Users\pablo\Desktop\Practica3\Practica3\bin\Debug\Practica3.exe
+C:\Users\pablo\Desktop\Practica3\Practica3\bin\Debug\Practica3.pdb
+C:\Users\pablo\Desktop\Practica3\Practica3\bin\Debug\Practica3.xml
+C:\Users\pablo\Desktop\Practica3\Practica3\obj\Debug\Practica3.vbprojAssemblyReference.cache
+C:\Users\pablo\Desktop\Practica3\Practica3\obj\Debug\Practica3.AddClients.resources
+C:\Users\pablo\Desktop\Practica3\Practica3\obj\Debug\Practica3.DeleteClient.resources
+C:\Users\pablo\Desktop\Practica3\Practica3\obj\Debug\Practica3.ModClients.resources
+C:\Users\pablo\Desktop\Practica3\Practica3\obj\Debug\Practica3.AddPatinete.resources
+C:\Users\pablo\Desktop\Practica3\Practica3\obj\Debug\Practica3.DeletePatinete.resources
+C:\Users\pablo\Desktop\Practica3\Practica3\obj\Debug\Practica3.modPatinete.resources
+C:\Users\pablo\Desktop\Practica3\Practica3\obj\Debug\Practica3.AddReservas.resources
+C:\Users\pablo\Desktop\Practica3\Practica3\obj\Debug\Practica3.DeleteReservas.resources
+C:\Users\pablo\Desktop\Practica3\Practica3\obj\Debug\Practica3.ModReservas.resources
+C:\Users\pablo\Desktop\Practica3\Practica3\obj\Debug\Practica3.AddTipoPatinete.resources
+C:\Users\pablo\Desktop\Practica3\Practica3\obj\Debug\Practica3.Form1.resources
+C:\Users\pablo\Desktop\Practica3\Practica3\obj\Debug\Practica3.Resources.resources
+C:\Users\pablo\Desktop\Practica3\Practica3\obj\Debug\Practica3.DeleteTipoPatiente.resources
+C:\Users\pablo\Desktop\Practica3\Practica3\obj\Debug\Practica3.ModTipoPatinete.resources
+C:\Users\pablo\Desktop\Practica3\Practica3\obj\Debug\Practica3.vbproj.GenerateResource.cache
+C:\Users\pablo\Desktop\Practica3\Practica3\obj\Debug\Practica3.vbproj.CoreCompileInputs.cache
+C:\Users\pablo\Desktop\Practica3\Practica3\obj\Debug\Practica3.exe
+C:\Users\pablo\Desktop\Practica3\Practica3\obj\Debug\Practica3.xml
+C:\Users\pablo\Desktop\Practica3\Practica3\obj\Debug\Practica3.pdb
+C:\Users\pablo\OneDrive - Universidad de Castilla-La Mancha\Universidad\Segundo\Bases de Datos\Laboratorio\Practica3\Practica3\bin\Debug\Practica3.exe.config
+C:\Users\pablo\OneDrive - Universidad de Castilla-La Mancha\Universidad\Segundo\Bases de Datos\Laboratorio\Practica3\Practica3\bin\Debug\Practica3.exe
+C:\Users\pablo\OneDrive - Universidad de Castilla-La Mancha\Universidad\Segundo\Bases de Datos\Laboratorio\Practica3\Practica3\bin\Debug\Practica3.pdb
+C:\Users\pablo\OneDrive - Universidad de Castilla-La Mancha\Universidad\Segundo\Bases de Datos\Laboratorio\Practica3\Practica3\bin\Debug\Practica3.xml
+C:\Users\pablo\OneDrive - Universidad de Castilla-La Mancha\Universidad\Segundo\Bases de Datos\Laboratorio\Practica3\Practica3\obj\Debug\Practica3.vbprojAssemblyReference.cache
+C:\Users\pablo\OneDrive - Universidad de Castilla-La Mancha\Universidad\Segundo\Bases de Datos\Laboratorio\Practica3\Practica3\obj\Debug\Practica3.AddClients.resources
+C:\Users\pablo\OneDrive - Universidad de Castilla-La Mancha\Universidad\Segundo\Bases de Datos\Laboratorio\Practica3\Practica3\obj\Debug\Practica3.DeleteClient.resources
+C:\Users\pablo\OneDrive - Universidad de Castilla-La Mancha\Universidad\Segundo\Bases de Datos\Laboratorio\Practica3\Practica3\obj\Debug\Practica3.ModClients.resources
+C:\Users\pablo\OneDrive - Universidad de Castilla-La Mancha\Universidad\Segundo\Bases de Datos\Laboratorio\Practica3\Practica3\obj\Debug\Practica3.AddPatinete.resources
+C:\Users\pablo\OneDrive - Universidad de Castilla-La Mancha\Universidad\Segundo\Bases de Datos\Laboratorio\Practica3\Practica3\obj\Debug\Practica3.DeletePatinete.resources
+C:\Users\pablo\OneDrive - Universidad de Castilla-La Mancha\Universidad\Segundo\Bases de Datos\Laboratorio\Practica3\Practica3\obj\Debug\Practica3.modPatinete.resources
+C:\Users\pablo\OneDrive - Universidad de Castilla-La Mancha\Universidad\Segundo\Bases de Datos\Laboratorio\Practica3\Practica3\obj\Debug\Practica3.AddReservas.resources
+C:\Users\pablo\OneDrive - Universidad de Castilla-La Mancha\Universidad\Segundo\Bases de Datos\Laboratorio\Practica3\Practica3\obj\Debug\Practica3.DeleteReservas.resources
+C:\Users\pablo\OneDrive - Universidad de Castilla-La Mancha\Universidad\Segundo\Bases de Datos\Laboratorio\Practica3\Practica3\obj\Debug\Practica3.ModReservas.resources
+C:\Users\pablo\OneDrive - Universidad de Castilla-La Mancha\Universidad\Segundo\Bases de Datos\Laboratorio\Practica3\Practica3\obj\Debug\Practica3.AddTipoPatinete.resources
+C:\Users\pablo\OneDrive - Universidad de Castilla-La Mancha\Universidad\Segundo\Bases de Datos\Laboratorio\Practica3\Practica3\obj\Debug\Practica3.Form1.resources
+C:\Users\pablo\OneDrive - Universidad de Castilla-La Mancha\Universidad\Segundo\Bases de Datos\Laboratorio\Practica3\Practica3\obj\Debug\Practica3.Resources.resources
+C:\Users\pablo\OneDrive - Universidad de Castilla-La Mancha\Universidad\Segundo\Bases de Datos\Laboratorio\Practica3\Practica3\obj\Debug\Practica3.DeleteTipoPatiente.resources
+C:\Users\pablo\OneDrive - Universidad de Castilla-La Mancha\Universidad\Segundo\Bases de Datos\Laboratorio\Practica3\Practica3\obj\Debug\Practica3.ModTipoPatinete.resources
+C:\Users\pablo\OneDrive - Universidad de Castilla-La Mancha\Universidad\Segundo\Bases de Datos\Laboratorio\Practica3\Practica3\obj\Debug\Practica3.vbproj.GenerateResource.cache
+C:\Users\pablo\OneDrive - Universidad de Castilla-La Mancha\Universidad\Segundo\Bases de Datos\Laboratorio\Practica3\Practica3\obj\Debug\Practica3.vbproj.CoreCompileInputs.cache
+C:\Users\pablo\OneDrive - Universidad de Castilla-La Mancha\Universidad\Segundo\Bases de Datos\Laboratorio\Practica3\Practica3\obj\Debug\Practica3.exe
+C:\Users\pablo\OneDrive - Universidad de Castilla-La Mancha\Universidad\Segundo\Bases de Datos\Laboratorio\Practica3\Practica3\obj\Debug\Practica3.xml
+C:\Users\pablo\OneDrive - Universidad de Castilla-La Mancha\Universidad\Segundo\Bases de Datos\Laboratorio\Practica3\Practica3\obj\Debug\Practica3.pdb
